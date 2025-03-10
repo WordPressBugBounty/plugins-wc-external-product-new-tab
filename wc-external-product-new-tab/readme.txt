@@ -1,9 +1,10 @@
 === WooCommerce External Product New Tab ===
 Contributors: stuartduff
-Tags: ecommerce, e-commerce, store, sales, sell, shop, cart, checkout, woocommerce
-Requires at least: 6.1
-Tested up to: 6.5
-Stable tag: 1.0.5
+Tags: store, e-commerce, sell, shop, woocommerce
+Requires at least: 6.7
+Tested up to: 6.8
+Version: 1.0.6
+Stable tag: 1.0.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -25,6 +26,9 @@ There are no settings for the plugin and you simply need to install and activate
 For this extension to function the [WooCommerce](https://wordpress.org/plugins/woocommerce/) must be installed and activated on your WordPress site.
 
 == Changelog ==
+
+= 1.0.5 - 15/02/24 =
+* Fix - Fix for Deprecated noticed related to $plugin_url and $plugin_path
 
 = 1.0.5 - 15/02/24 =
 * Added - HPOS compatibility.
