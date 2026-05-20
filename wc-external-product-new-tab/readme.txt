@@ -1,12 +1,14 @@
 === External Product New Tab for WooCommerce  ===
 Contributors: stuartduff
 Tags: store, e-commerce, sell, shop, woocommerce
-Requires at least: 6.7
-Tested up to: 6.8
-Version: 1.0.7
-Stable tag: 1.0.7
+Requires at least: 6.9
+Tested up to: 7.0
+Version: 1.0.8
+Stable tag: 1.0.8
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
+
+Opens WooCommerce external / affiliate product links in a new browser tab automatically.
 
 == Description ==
 
@@ -26,6 +28,9 @@ There are no settings for the plugin and you simply need to install and activate
 For this extension to function the [WooCommerce](https://wordpress.org/plugins/woocommerce/) must be installed and activated on your WordPress site.
 
 == Changelog ==
+
+= 1.0.8 - 20/05/26 =
+- Update for readme.txt and plugin compatibility versions.
 
 = 1.0.7 - 02/09/25 =
 * Change: Changed plugin name from WooCommerce External Product New Tab to External Product New Tab for WooCommerce
